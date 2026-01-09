@@ -14,7 +14,7 @@ All included content consists of mock data and provides no in-game functionality
 This project does not interact with any games or third-party software.
 No executable, injected, or functional components are included.
 
-## Preview
+## Preview.
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/v4bQ5yNiZAM/maxresdefault.jpg" alt="Dota 2 Demo Preview" width="700">
